@@ -1,0 +1,4 @@
+class DiscoveryConstants:
+    BULLISH_THRESHOLD = 0.65
+    BEARISH_THRESHOLD = -0.65
+    LOOKBACK_WINDOW = 48
